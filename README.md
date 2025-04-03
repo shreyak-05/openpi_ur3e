@@ -1,4 +1,4 @@
-# Create virtual environment 
+Create virtual environment 
 ```bash
 uv venv --python 3.10 examples/aloha_sim/.venv
 source examples/aloha_sim/.venv/bin/activate
