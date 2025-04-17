@@ -1,6 +1,6 @@
 Create virtual environment 
 ```bash
-uv venv --python 3.10 examples/aloha_sim/.venv
+uv venv --python 3.11 examples/aloha_sim/.venv
 source examples/aloha_sim/.venv/bin/activate
 uv pip sync examples/aloha_sim/requirements.txt
 uv pip install -e packages/openpi-client
